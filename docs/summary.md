@@ -32,6 +32,10 @@ Well knowing that your friend, if they have any sense, will pick a value right n
 
 If you were to choose a value that wasn't in the middle, say $x_a$, then your friend would choose $x_b$ and be in a much better chance of winning. But you would then be better off choosing $x_c$, and in return your friend would choose $x_d$. Continuing this hypothetical chain, you can see that the only value for which you are no better off by changing your guess in response to your friends guess is when you choose $x^*$ at halfway. Here, no player can be any better off by changing their guess given what the other player has guessed, and thus this is a stable outcome (or as economists say, a *nash equilibrium*[$^2$](https://en.wikipedia.org/wiki/Nash_equilibrium)). This approach of thinking through hypothetical repeated steps until you get to a stable outcome is going to be useful for solving more complex versions of this game.
 
+### 3. Multiplayer game
+
+For instance now let's assume that another of your friends wants to get in on the fun. 
+
 
 
 
